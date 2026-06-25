@@ -156,12 +156,6 @@ Even small improvements (better error messages, new flags, docs) are appreciated
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and share.
-
----
-
 ## 👋 About
 
 Built by **Pitchaiah Venkat K** — Python Engineer working on data pipelines, ETL systems, and developer tooling.
